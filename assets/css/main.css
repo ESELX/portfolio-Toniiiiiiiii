@@ -2589,6 +2589,10 @@ input, select, textarea {
 				width: 100%;
 			}
 
+			.image.pino img {
+				width: 100%;
+			}
+
 		.image.main {
 			display: block;
 			margin: 0 0 3em 0;
