@@ -2578,6 +2578,13 @@ input, select, textarea {
 			width: 100%;
 		}
 
+		.image.pino {
+			display: block;
+			margin: 0 0 2em 0;
+			width: 100%;
+			transform: rotate(180deg);
+		}
+
 			.image.fit img {
 				width: 100%;
 			}
